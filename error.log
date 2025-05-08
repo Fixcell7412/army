@@ -1,0 +1,265 @@
+[24-Apr-2025 19:39:15 Europe/Berlin] Received POST data: Array
+(
+    [id] => 12
+    [status] => Approved
+)
+
+[24-Apr-2025 19:39:15 Europe/Berlin] Processing update - Report ID: 12, New Status: Approved
+[24-Apr-2025 19:39:15 Europe/Berlin] Error in update_report_status.php: Unknown column 'updated_at' in 'field list'
+[24-Apr-2025 19:39:25 Europe/Berlin] Received POST data: Array
+(
+    [id] => 12
+    [status] => Approved
+)
+
+[24-Apr-2025 19:39:25 Europe/Berlin] Processing update - Report ID: 12, New Status: Approved
+[24-Apr-2025 19:39:25 Europe/Berlin] Error in update_report_status.php: Unknown column 'updated_at' in 'field list'
+[24-Apr-2025 19:40:36 Europe/Berlin] Received POST data: Array
+(
+    [id] => 12
+    [status] => Approved
+)
+
+[24-Apr-2025 19:40:36 Europe/Berlin] Processing update - Report ID: 12, New Status: Approved
+[24-Apr-2025 19:40:36 Europe/Berlin] Error in update_report_status.php: Unknown column 'updated_at' in 'field list'
+[24-Apr-2025 19:41:04 Europe/Berlin] Received POST data: Array
+(
+    [id] => 12
+    [status] => Approved
+)
+
+[24-Apr-2025 19:41:04 Europe/Berlin] Processing update - Report ID: 12, New Status: Approved
+[24-Apr-2025 19:41:04 Europe/Berlin] Found user data: Array
+(
+    [user_id] => 10
+    [month] => April
+    [user_name] => bobo bobo
+)
+
+[24-Apr-2025 19:41:04 Europe/Berlin] Successfully created notification for user ID: 10
+[24-Apr-2025 19:43:57 Europe/Berlin] Received POST data: Array
+(
+    [id] => 11
+    [status] => Rejected
+    [remarks] => csdscdscs
+)
+
+[24-Apr-2025 19:43:57 Europe/Berlin] Processing update - Report ID: 11, New Status: Rejected, Remarks: csdscdscs
+[24-Apr-2025 19:43:57 Europe/Berlin] Found user data: Array
+(
+    [user_id] => 
+    [month] => April
+    [user_name] => 
+)
+
+[24-Apr-2025 19:43:57 Europe/Berlin] Successfully created notification for user ID: 
+[06-May-2025 17:23:09 Asia/Manila] Received POST data: Array
+(
+    [id] => 18
+    [status] => Approved
+)
+
+[06-May-2025 17:23:09 Asia/Manila] Processing update - Report ID: 18, New Status: Approved, Remarks: 
+[06-May-2025 17:23:09 Asia/Manila] Found user data: Array
+(
+    [user_id] => 
+    [month] => May
+    [user_name] => 
+)
+
+[06-May-2025 17:23:09 Asia/Manila] Successfully created notification for user ID: 
+[06-May-2025 17:23:12 Asia/Manila] Received POST data: Array
+(
+    [id] => 19
+    [status] => Approved
+)
+
+[06-May-2025 17:23:12 Asia/Manila] Processing update - Report ID: 19, New Status: Approved, Remarks: 
+[06-May-2025 17:23:12 Asia/Manila] Found user data: Array
+(
+    [user_id] => 
+    [month] => May
+    [user_name] => 
+)
+
+[06-May-2025 17:23:12 Asia/Manila] Successfully created notification for user ID: 
+[06-May-2025 17:23:15 Asia/Manila] Received POST data: Array
+(
+    [id] => 20
+    [status] => Approved
+)
+
+[06-May-2025 17:23:15 Asia/Manila] Processing update - Report ID: 20, New Status: Approved, Remarks: 
+[06-May-2025 17:23:15 Asia/Manila] Found user data: Array
+(
+    [user_id] => 
+    [month] => May
+    [user_name] => 
+)
+
+[06-May-2025 17:23:15 Asia/Manila] Successfully created notification for user ID: 
+[06-May-2025 17:23:25 Asia/Manila] Received POST data: Array
+(
+    [id] => 10
+    [status] => Approved
+)
+
+[06-May-2025 17:23:25 Asia/Manila] Processing update - Report ID: 10, New Status: Approved, Remarks: 
+[06-May-2025 17:23:25 Asia/Manila] Found user data: Array
+(
+    [user_id] => 
+    [month] => April
+    [user_name] => 
+)
+
+[06-May-2025 17:23:25 Asia/Manila] Successfully created notification for user ID: 
+[06-May-2025 17:23:26 Asia/Manila] Received POST data: Array
+(
+    [id] => 9
+    [status] => Approved
+)
+
+[06-May-2025 17:23:26 Asia/Manila] Processing update - Report ID: 9, New Status: Approved, Remarks: 
+[06-May-2025 17:23:26 Asia/Manila] Found user data: Array
+(
+    [user_id] => 
+    [month] => April
+    [user_name] => 
+)
+
+[06-May-2025 17:23:26 Asia/Manila] Successfully created notification for user ID: 
+[06-May-2025 17:23:32 Asia/Manila] Received POST data: Array
+(
+    [id] => 8
+    [status] => Approved
+)
+
+[06-May-2025 17:23:32 Asia/Manila] Processing update - Report ID: 8, New Status: Approved, Remarks: 
+[06-May-2025 17:23:32 Asia/Manila] Found user data: Array
+(
+    [user_id] => 
+    [month] => April
+    [user_name] => 
+)
+
+[06-May-2025 17:23:32 Asia/Manila] Successfully created notification for user ID: 
+[06-May-2025 17:23:34 Asia/Manila] Received POST data: Array
+(
+    [id] => 7
+    [status] => Approved
+)
+
+[06-May-2025 17:23:34 Asia/Manila] Processing update - Report ID: 7, New Status: Approved, Remarks: 
+[06-May-2025 17:23:34 Asia/Manila] Found user data: Array
+(
+    [user_id] => 
+    [month] => April
+    [user_name] => 
+)
+
+[06-May-2025 17:23:34 Asia/Manila] Successfully created notification for user ID: 
+[06-May-2025 17:23:41 Asia/Manila] Received POST data: Array
+(
+    [id] => 1
+    [status] => Approved
+)
+
+[06-May-2025 17:23:41 Asia/Manila] Processing update - Report ID: 1, New Status: Approved, Remarks: 
+[06-May-2025 17:23:41 Asia/Manila] Found user data: Array
+(
+    [user_id] => 
+    [month] => March
+    [user_name] => 
+)
+
+[06-May-2025 17:23:41 Asia/Manila] Successfully created notification for user ID: 
+[06-May-2025 17:23:42 Asia/Manila] Received POST data: Array
+(
+    [id] => 2
+    [status] => Approved
+)
+
+[06-May-2025 17:23:42 Asia/Manila] Processing update - Report ID: 2, New Status: Approved, Remarks: 
+[06-May-2025 17:23:42 Asia/Manila] Found user data: Array
+(
+    [user_id] => 
+    [month] => March
+    [user_name] => 
+)
+
+[06-May-2025 17:23:42 Asia/Manila] Successfully created notification for user ID: 
+[06-May-2025 17:23:49 Asia/Manila] Received POST data: Array
+(
+    [id] => 4
+    [status] => Approved
+)
+
+[06-May-2025 17:23:49 Asia/Manila] Processing update - Report ID: 4, New Status: Approved, Remarks: 
+[06-May-2025 17:23:49 Asia/Manila] Found user data: Array
+(
+    [user_id] => 
+    [month] => April
+    [user_name] => 
+)
+
+[06-May-2025 17:23:49 Asia/Manila] Successfully created notification for user ID: 
+[06-May-2025 17:23:50 Asia/Manila] Received POST data: Array
+(
+    [id] => 3
+    [status] => Approved
+)
+
+[06-May-2025 17:23:50 Asia/Manila] Processing update - Report ID: 3, New Status: Approved, Remarks: 
+[06-May-2025 17:23:50 Asia/Manila] Found user data: Array
+(
+    [user_id] => 
+    [month] => March
+    [user_name] => 
+)
+
+[06-May-2025 17:23:50 Asia/Manila] Successfully created notification for user ID: 
+[06-May-2025 17:23:56 Asia/Manila] Received POST data: Array
+(
+    [id] => 5
+    [status] => Approved
+)
+
+[06-May-2025 17:23:56 Asia/Manila] Processing update - Report ID: 5, New Status: Approved, Remarks: 
+[06-May-2025 17:23:56 Asia/Manila] Found user data: Array
+(
+    [user_id] => 
+    [month] => April
+    [user_name] => 
+)
+
+[06-May-2025 17:23:56 Asia/Manila] Successfully created notification for user ID: 
+[06-May-2025 17:23:58 Asia/Manila] Received POST data: Array
+(
+    [id] => 6
+    [status] => Approved
+)
+
+[06-May-2025 17:23:58 Asia/Manila] Processing update - Report ID: 6, New Status: Approved, Remarks: 
+[06-May-2025 17:23:58 Asia/Manila] Found user data: Array
+(
+    [user_id] => 
+    [month] => April
+    [user_name] => 
+)
+
+[06-May-2025 17:23:58 Asia/Manila] Successfully created notification for user ID: 
+[07-May-2025 19:38:53 Asia/Manila] Received POST data: Array
+(
+    [id] => 24
+    [status] => Approved
+)
+
+[07-May-2025 19:38:53 Asia/Manila] Processing update - Report ID: 24, New Status: Approved, Remarks: 
+[07-May-2025 19:38:53 Asia/Manila] Found user data: Array
+(
+    [user_id] => 24
+    [month] => May
+    [user_name] => Joenard Louie  Benenoso
+)
+
+[07-May-2025 19:38:53 Asia/Manila] Successfully created notification for user ID: 24
